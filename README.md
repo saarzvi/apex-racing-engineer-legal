@@ -1,0 +1,10 @@
+# APEX Racing Engineer — Legal Pages
+
+Public, static Privacy Policy and Terms of Use for the APEX Racing Engineer mobile application.
+
+- No advertising or analytics
+- No custom JavaScript
+- Hosted with GitHub Pages
+- Effective date: September 17, 2026
+
+App source: https://github.com/saarzvi/apex-gt7-engineer
