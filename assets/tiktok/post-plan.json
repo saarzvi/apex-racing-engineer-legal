@@ -1,0 +1,181 @@
+[
+  {
+    "id": "01-teaser",
+    "title": [
+      "THE GRID",
+      "IS CHANGING."
+    ],
+    "sub": [
+      "REAL DATA. REAL DECISIONS."
+    ],
+    "caption": [
+      "A race-engineer companion",
+      "for Gran Turismo 7."
+    ],
+    "screen": "motorsport-live.png",
+    "label": "YOUR RACE. YOUR DATA.",
+    "tag": "Motorsport Analog cockpit",
+    "ending": [
+      "BE RACE READY."
+    ],
+    "end_sub": [
+      "GT7 telemetry companion",
+      "coming to iOS + Android."
+    ],
+    "description": "APEX Racing Engineer is gearing up. GT7 telemetry, a cockpit designed for the grid, and race-engineer insights. Follow our launch. 🏁 #GT7 #GranTurismo7 #SimRacing #APEXRacingEngineer"
+  },
+  {
+    "id": "02-focus",
+    "title": [
+      "DRIVE FIRST.",
+      "READ FASTER."
+    ],
+    "sub": [
+      "FOCUS MODE"
+    ],
+    "caption": [
+      "See speed, gear and RPM",
+      "without the noise."
+    ],
+    "screen": "motorsport-focus.png",
+    "label": "FOCUS MODE",
+    "tag": "Keep the essentials front and center",
+    "ending": [
+      "LESS CLUTTER.",
+      "MORE RACING."
+    ],
+    "end_sub": [
+      "Motorsport Analog preview",
+      "Captured in Offline Demo."
+    ],
+    "description": "When the lights go out, your focus matters. APEX Focus Mode keeps the essentials front and center. Preview shown in Offline Demo. #GT7 #SimRacing #Telemetry #Motorsport"
+  },
+  {
+    "id": "03-engineer",
+    "title": [
+      "DON’T JUST",
+      "DRIVE. THINK."
+    ],
+    "sub": [
+      "MEET YOUR RACE ENGINEER"
+    ],
+    "caption": [
+      "Race alerts, fuel estimates",
+      "and pit decisions."
+    ],
+    "screen": "motorsport-engineer.png",
+    "label": "RACE ENGINEER",
+    "tag": "Decision support at a glance",
+    "ending": [
+      "RACE SMARTER."
+    ],
+    "end_sub": [
+      "Race-engineer guidance",
+      "built around GT7 telemetry."
+    ],
+    "description": "A race engineer in your pocket: fuel estimates, pit awareness and useful race information, without unnecessary noise. Demo preview. #GT7 #RaceEngineer #SimRacing #RacingTech"
+  },
+  {
+    "id": "04-pit",
+    "title": [
+      "PIT STRATEGY",
+      "MATTERS."
+    ],
+    "sub": [
+      "MANUAL PIT CONTROLS"
+    ],
+    "caption": [
+      "Track your planned fuel,",
+      "tyres and pit decisions."
+    ],
+    "screen": "motorsport-engineer.png",
+    "label": "PLAN THE STOP",
+    "tag": "Fuel + tyre inputs when needed",
+    "ending": [
+      "PLAN THE STOP."
+    ],
+    "end_sub": [
+      "You manage the call.",
+      "APEX tracks the context."
+    ],
+    "description": "GT7 telemetry does not expose every pit detail. APEX helps with manual pit, fuel and tyre inputs so the race plan stays clear. Offline Demo preview. #GT7 #PitStrategy #SimRacing"
+  },
+  {
+    "id": "05-telemetry",
+    "title": [
+      "TELEMETRY",
+      "YOU CAN FEEL."
+    ],
+    "sub": [
+      "BUILT FOR GT7"
+    ],
+    "caption": [
+      "RPM. Speed. Gear.",
+      "Throttle. Brakes. Fuel."
+    ],
+    "screen": "motorsport-live.png",
+    "label": "LIVE TELEMETRY",
+    "tag": "One place for the racing essentials",
+    "ending": [
+      "MAKE EVERY",
+      "LAP COUNT."
+    ],
+    "end_sub": [
+      "Local-network telemetry",
+      "with compatible GT7 sessions."
+    ],
+    "description": "Speed, gear, RPM and driving inputs—organized for the race, not hidden in a menu. GT7 live telemetry uses your local network. Preview uses simulated demo data. #GT7 #GranTurismo7 #Telemetry"
+  },
+  {
+    "id": "06-themes",
+    "title": [
+      "YOUR COCKPIT.",
+      "YOUR STYLE."
+    ],
+    "sub": [
+      "MOTORSPORT ANALOG"
+    ],
+    "caption": [
+      "Choose the instrument look",
+      "that fits your race."
+    ],
+    "screen": "motorsport-themes.png",
+    "label": "CHOOSE YOUR LOOK",
+    "tag": "Motorsport Analog selected",
+    "ending": [
+      "BUILT FOR",
+      "THE GRID."
+    ],
+    "end_sub": [
+      "Motorsport Analog and",
+      "more cockpit themes."
+    ],
+    "description": "Your dash, your style. APEX Motorsport Analog brings that classic instrument feel to modern GT7 telemetry. This is an actual app screenshot in Offline Demo. #SimRacing #Motorsport #GT7"
+  },
+  {
+    "id": "07-follow",
+    "title": [
+      "THE NEXT LAP",
+      "STARTS HERE."
+    ],
+    "sub": [
+      "APEX RACING ENGINEER"
+    ],
+    "caption": [
+      "Independent GT7 companion.",
+      "One-time purchase at launch."
+    ],
+    "screen": "motorsport-focus.png",
+    "label": "GET LAUNCH READY",
+    "tag": "Preview the upcoming release",
+    "ending": [
+      "FOLLOW",
+      "THE LAUNCH."
+    ],
+    "end_sub": [
+      "iOS + Android releases",
+      "are in store review."
+    ],
+    "description": "No subscriptions planned. One-time purchase, independent GT7 companion, built for sim racers. iOS and Android releases are still undergoing review. Follow for the official launch. #APEXRacingEngineer #GT7 #SimRacing"
+  }
+]

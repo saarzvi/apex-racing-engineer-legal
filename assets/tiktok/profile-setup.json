@@ -1,0 +1,14 @@
+{
+  "connected_tiktok": "ApexRacingEngineer",
+  "display_name": "APEX | Racing Engineer",
+  "recommended_username": "@apexracingengineer",
+  "bio": "GT7 telemetry. Race smarter. \ud83c\udfc1 Motorsport cockpit + strategy.",
+  "website": "https://saarzvi.github.io/apex-racing-engineer-legal/",
+  "pinned_content_order": [
+    "01-teaser",
+    "02-focus",
+    "03-engineer"
+  ],
+  "profile_picture": "assets/tiktok/apex-tiktok-profile.png",
+  "account_note": "TikTok profile editing is not supported by Metricool API; owner must apply in TikTok app."
+}
